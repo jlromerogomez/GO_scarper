@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main_2() {
+func main2() {
 	fmt.Println("Primera version de control de versiones")
 }

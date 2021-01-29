@@ -176,8 +176,8 @@ func aprendeControlDeFlujo() {
 	// For es la única instrucción de bucle en Go, pero tiene formas
 	// alternativas.
 	for { // Bucle infinito.
-		break    // ¡Solo bromeaba!
-		continue // No llega.
+		break // ¡Solo bromeaba!
+		// continue // No llega.
 	}
 
 	// Puedes usar `range` para iterar en un arreglo, un sector, una

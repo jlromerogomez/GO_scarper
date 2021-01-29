@@ -22,6 +22,9 @@ func getListing(listingURL string) {
 
 }
 func main() {
-	fmt.Print("Starting feature de Scrap....")
+	fmt.Println("Starting feature de Scrap....")
 	getListing("http://adnansiddiqi.me")
+
+	main2()
+	main_secondary()
 }
