@@ -22,5 +22,6 @@ func getListing(listingURL string) {
 
 }
 func main_3() {
+	fmt.Print("Arrancamos el scraper....")
 	getListing("http://adnansiddiqi.me")
 }
